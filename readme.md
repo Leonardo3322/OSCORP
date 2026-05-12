@@ -2,7 +2,7 @@
 We are the team that proudly represents the San Antonio Institute Educational Unit (U.E.I. San Antonio). We focus on teamwork, hard work, effort, and commitment to every project we undertake to achieve progress and our goals and dreams.
 
 #  Índice
-* [Repository Contents](#Repository-Contents)
+* [Repository Contents](#List-of-components-used)
 * [Project Introduction](#Project-Introduction)
 * [Photos of our Team](#Photos-of-our-Team)
 * [First model](#First-model)
